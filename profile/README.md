@@ -8,4 +8,4 @@ Everything here is related to our [Discord server](https://chat.nhcarrigan.com),
 
 ## Joining the Organisation
 
-If you want to join, create a new issue with the `Join the Organisation` template, and we will invite you as soon as possible!
+If you want you can raise an [issue to join the nhcommunity GitHub organisation](https://github.com/nhcommunity/community/issues/new?assignees=nhcarrigan&labels=%F0%9F%9A%A6+status%3A+awaiting+triage&template=join_org.yml&title=%5BORG%5D+Invite+me+to+the+organization) and we will invite you as soon as possible.
