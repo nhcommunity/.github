@@ -1,6 +1,6 @@
 # nhcommunity
 
-![community banner](https://raw.githubusercontent.com/nhcommunity/.github/main/banner.png)
+![community banner](https://cdn.nhcarrigan.com/banners/community.png)
 
 Welcome to our community organisation! This is where we store our community projects, such as our home page and handbook.
 
